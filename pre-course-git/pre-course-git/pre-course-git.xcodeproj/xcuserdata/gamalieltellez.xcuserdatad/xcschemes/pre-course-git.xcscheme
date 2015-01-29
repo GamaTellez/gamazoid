@@ -14,9 +14,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "879E38FB1A7ACD1100B277F9"
-               BuildableName = "pre-course-git"
+               BlueprintIdentifier = "879E390E1A7AF83600B277F9"
+               BuildableName = "pre-course-git.app"
                BlueprintName = "pre-course-git"
+               ReferencedContainer = "container:pre-course-git.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "879E39271A7AF83600B277F9"
+               BuildableName = "pre-course-gitTests.xctest"
+               BlueprintName = "pre-course-gitTests"
                ReferencedContainer = "container:pre-course-git.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,12 +42,22 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "879E39271A7AF83600B277F9"
+               BuildableName = "pre-course-gitTests.xctest"
+               BlueprintName = "pre-course-gitTests"
+               ReferencedContainer = "container:pre-course-git.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "879E38FB1A7ACD1100B277F9"
-            BuildableName = "pre-course-git"
+            BlueprintIdentifier = "879E390E1A7AF83600B277F9"
+            BuildableName = "pre-course-git.app"
             BlueprintName = "pre-course-git"
             ReferencedContainer = "container:pre-course-git.xcodeproj">
          </BuildableReference>
@@ -51,8 +75,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "879E38FB1A7ACD1100B277F9"
-            BuildableName = "pre-course-git"
+            BlueprintIdentifier = "879E390E1A7AF83600B277F9"
+            BuildableName = "pre-course-git.app"
             BlueprintName = "pre-course-git"
             ReferencedContainer = "container:pre-course-git.xcodeproj">
          </BuildableReference>
@@ -69,8 +93,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "879E38FB1A7ACD1100B277F9"
-            BuildableName = "pre-course-git"
+            BlueprintIdentifier = "879E390E1A7AF83600B277F9"
+            BuildableName = "pre-course-git.app"
             BlueprintName = "pre-course-git"
             ReferencedContainer = "container:pre-course-git.xcodeproj">
          </BuildableReference>
